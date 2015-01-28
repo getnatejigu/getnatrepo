@@ -1,5 +1,3 @@
-# getnatrepo
-
 # **Project Plan -- Team 31**
 
 ### 1. Introduction
@@ -12,59 +10,65 @@ The software deliverable will be a command line application to which the student
 
 ### 2. Process Description
 
-Process description as a set of activities; for each activity, provide the following:
+Process description as a set of activities:
 
-..- Activity name: Develop project plan
-..- Activity description: Meet to discuss and create the project plan document. 
-..- Entrance criteria: Project specification and requirements lecture video.
-..- Exit criteria: Project plan document.
+  - Activity name: Develop project plan
+  - Activity description: Meet to discuss and create the project plan document. 
+  - Entrance criteria: Project specification and requirements lecture video.
+  - Exit criteria: Project plan document.
 
-..- Activity name: Develop requirements document
-..- Activity description: Meet to discuss and create a preliminary copy of the requirements document. 
-..- Entrance criteria: Project specification and requirements lecture video.
-..- Exit criteria: Preliminary copy of the requirements document.
+  - Activity name: Develop requirements document
+  - Activity description: Meet to discuss and create a preliminary copy of the requirements document. 
+  - Entrance criteria: Project specification and requirements lecture video.
+  - Exit criteria: Preliminary copy of the requirements document.
 
-..- Activity name: Clarify requirements
-..- Activity description: Ask the user two questions to clarify requirements details. 
-..- Entrance criteria: Requirements lecture video.
-..- Exit criteria: Requirements document.
-..- Activity name: Finalize requirements document
-..- Activity description: Meet to discuss and update the preliminary copy of the requirements document. 
-..- Entrance criteria:  Clarifications provided by Lauren and team members.
-..- Exit criteria: Final copy of the requirements document.
+  - Activity name: Clarify requirements
+  - Activity description: Ask the user two questions to clarify requirements details. 
+  - Entrance criteria: Requirements lecture video.
+  - Exit criteria: Requirements document.
+  - Activity name: Finalize requirements document
+  - Activity description: Meet to discuss and update the preliminary copy of the requirements document. 
+  - Entrance criteria:  Clarifications provided by Lauren and team members.
+  - Exit criteria: Final copy of the requirements document.
 
-..- Activity name: Develop user documentation 
-..- Activity description: Develop detailed guide for users to help them better understand and use the program 
-..- Entrance criteria: Requirements document
-..- Exit criteria: Final copy of the user documentation
+  - Activity name: Develop user documentation 
+  - Activity description: Develop detailed guide for users to help them better understand and use the program 
+  - Entrance criteria: Requirements document
+  - Exit criteria: Final copy of the user documentation
 
-..- Activity name: Develop Java program
-..- Activity description: Implement Java program to compute average sentences length rounded to the nearest integer.
-..- Entrance criteria: Requirements document
-..- Exit criteria: Executable Java program to compute average sentence length.
+  - Activity name: Develop Java program
+  - Activity description: Implement Java program to compute average sentences length rounded to the nearest integer.
+  - Entrance criteria: Requirements document
+  - Exit criteria: Executable Java program to compute average sentence length.  
 
-..- Activity name: Develop test cases
-..- Activity description: Develop test cases for Java program components to ensure they function as expected 
-..- Entrance criteria: Untested Java program after finishing design process
-..- Exit criteria: Test cases that examine the functionality of each program component
+  - Activity name: Develop test cases
+  - Activity description: Develop test cases for Java program components to ensure they function as expected 
+  - Entrance criteria: Untested Java program after finishing design process
+  - Exit criteria: Test cases that examine the functionality of each program component  
 
-..- Activity name: Execute test cases and verify results
-..- Activity description: Run the suite of test cases and review the results to ensure each of the test cases passes.
-..- Entrance criteria: Test cases developed
-..- Exit criteria: Functional Java program that computes average sentence length with all specifications listed in user documentation
+  - Activity name: Execute test cases and verify results
+  - Activity description: Run the suite of test cases and review the results to ensure each of the test cases passes.
+  - Entrance criteria: Test cases developed
+  - Exit criteria: Functional Java program that computes average sentence length with all specifications listed in user   documentation
+
+
+Activity Name | Activity Description | Entrance criteria | Exit criteria
+--------------| ---------------------|-------------------| -------------
+Develop project plan | Meet to discuss and create the project plan document. | Project specification and requirements lecture video. | Project plan document.
+
 
 ### 3. Team
 
 - Team Members
-..- Pam Mazurkivich (pmazurkivich3)
-..- Getnat Ejigu (gejigu3)
-..- Fandi Peng (fpeng9)
-..- Caleb Powell (cpowell41)
+  - Pam Mazurkivich (pmazurkivich3)
+  - Getnat Ejigu (gejigu3)
+  - Fandi Peng (fpeng9)
+  - Caleb Powell (cpowell41)
 - Roles
-..- Project Manager
-..- Development Lead
-..- QA Manager
-..- Documentation Lead
+  - Project Manager
+  - Development Lead
+  - QA Manager
+  - Documentation Lead
 - Role Assignments
 
 |Role|Team Member|
@@ -79,15 +83,14 @@ Process description as a set of activities; for each activity, provide the follo
 Provide estimates for the following metrics:
 
 - Effort hours: 
-..- Pam Mazurkivich
-..- Getnat Ejigu 
-..- Fandi Peng
-..- Caleb Powell 
+  - Pam Mazurkivich
+  - Getnat Ejigu 
+  - Fandi Peng
+  - Caleb Powell 
 
 - Lines of code: N/A
 
 - ~~Effort hours: total number of team-member hours you expect to spend on the project~~
 - ~~Lines of code: total number of lines of source code you expect to have in your final product~~
-
 
 
