@@ -11,12 +11,12 @@ The software deliverable will be a command line application to which the student
 ### 2. Process Description
 
 Process description as a set of activities:
-
+  1. Activity #1
   - Activity name: Develop project plan
   - Activity description: Meet to discuss and create the project plan document. 
   - Entrance criteria: Project specification and requirements lecture video.
   - Exit criteria: Project plan document.
-
+  2. Activity #2
   - Activity name: Develop requirements document
   - Activity description: Meet to discuss and create a preliminary copy of the requirements document. 
   - Entrance criteria: Project specification and requirements lecture video.
